@@ -1,0 +1,20 @@
+# Entornos virtuales
+env/
+backend/env/
+
+# Node.js (por si usas npm)
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+*.log
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Archivos compilados
+__pycache__/
+*.pyc
